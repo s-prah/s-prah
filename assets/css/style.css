@@ -400,6 +400,8 @@ ul.plain, ul.plain li { list-style: none; margin: 0; padding: 0; }
 
 .content > p:first-of-type { margin-top: 0; }
 
+.content p { text-align: justify; }
+
 /* -----------------------------------------------------------------------
    Pills
    ----------------------------------------------------------------------- */
